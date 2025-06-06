@@ -1,6 +1,6 @@
 <p align="center">
   <a href=""></a>
-  <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/banner.png" width="60%" alt="">
+  <img src="https://drive.google.com/file/d/17bMdrGslpp36oWKKMzc6i86RpPGxz9-2/view?usp=sharing" width="60%" alt="link to my video">
 </p>
 
 <h1 align="center">bfc-rs: simple brainfuck to NASM compiler!</h1>
